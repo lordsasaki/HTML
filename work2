@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ODEV 2</title>
+</head>
+<body>
+<h1>SAMET PEHLIVAN</h1>
+<h4>HAKKIMDA</h4>
+<p> MERHABA BEN SAMET PEHLIVAN. ANKARA'DA YASIYORUM .... </p>
+<h4>SEVDIGIM DIZILER</h4>
+<p><a href="https://www.imdb.com/title/tt2861424/" target="_blank" >RICK AND MORTY</a>   <a href="https://www.imdb.com/title/tt0944947/?ref_=fn_al_tt_1" target="_blank">GAME OF THORENS</a>   </p>
+<h4>SEVDIGIM Kıtaplar</h4>
+<p> <a href="https://www.dr.com.tr/Kitap/Monte-Cristo-Kontu-Hasan-Ali-Yucel-Klasikler/Edebiyat/Roman/Dunya-Klasik/urunno=0001776479001" target="_blank" >Monte Cristo Kontu</a>, Gülün Adı, MOBY DICK  </p>
+<p>	<img src="https://images.kinorium.com/movie/shot/625877/w1500_37990527.jpg" width="900" height="500" title="rick and mort image at wedding" alt="rick and morty"></p>
+	<p>	Rick and Morty, Justin Roiland ve Dan Harmon tarafından Adult Swim için yaratılan bir yetişkin animasyon televizyon dizisidir.</p>
+
+ <span> <p> Dizi, kendi zamanlarını aile hayatı ve boyutlar arası yolculuk arasında bölüştürmüş alkolik bilim insanı Rick ve onun torunu Morty'nin maceralarını anlatır. Dizide Chris Parnell, Spencer Grammer ve Sarah Chalke'in sesi başroldeki karakterleri seslendirken diğer karakterleri Roiland seslendirir. Dizinin ilk halleri Roiland tarafından Channel 101 film festivali için hazırlanmıştır. Adult Swim, televizyon şovu fikirleri için Harmon ile görüştü; o ve Roiland iki karaktere dayalı televizyon programını hazırlamaya başladılar. </p>	</span>
+</body>
+</html>
