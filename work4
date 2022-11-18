@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+	<meta charset="UTF-8">
+	<title>Crema Catalana</title>
+</head>
+<body style="background-color: whitesmoke"> 
+	  <h1 style="color:rgb(255, 4, 0);" > Crema Catalana Tarifi </h1>
+	<header><i>
+    <p>Creme brulee'yi hemen herkes bilir veya bir kez olsun adını bir restoranda duymuştur. Bugün bu Fransız lezzetinin bir başka versiyonunu yapıyor olacağız ama bu nefis tatlı için bu sefer yolumuz İspanya'ya düşüyor. Krem katalan tarifi aslında creme brulee ile sadece birkaç noktada ayrılıyor. <br>
+
+	Creme brulee'de vanilya aroması kullanılırken; krem katalan'da portakal ve limon aroması kullanıyor, tarçın da farklı bir tat katıyor. Ayrıca Creme brulee daha çok krema bazlı bir tatlıyken, crema catalana'da yalnızca süt kullanıyor. Son olarak creme brulee'de fırın kullanmak gerekirken krem katalan fırınsız 	hazırlanıyor.<br>
+
+	Bu enfes bilgilerden sonra tarifimizi denemek isteyenleri daha fazla bekletmeyelim ve mutfağa buyur edelim. Şimdiden ellerinize sağlık!</p></i>
+        <p><b>Tarif:</b> Nefis Yemek Tarifleri</p>
+
+        <div style="text-align: center;">
+            <div style="display: inline-block; text-decoration:underline">
+            <p ><span style="color:rgb(255, 4, 0);">Kaç Kişilik:</span>4 Kişilik</p>
+         </div> </div>
+    </header>
+	
+	<section>
+        <article style="position: relative; left: 400px; width: fit-content;">
+            <h3><span style="background-color: red; color:#FFF;">Tarif için Malzemeler...</span></h3>
+            <h4><span style="color:black ;">Tatlı için;</span></h4>
+            <ul>
+                <li>2,5 su bardağısüt</li>
+                <li>1 adet çubuk tarçın</li>
+                <li>2 parça limon kabuğu</li>
+                <li>2 parça portakal kabuğu</li>
+                <li>5 adet yumurta sarısı</li>
+                <li>1/2 su bardağı toz şeker</li>
+                <li>2 yemek kaşığı mısır nişastası</li>
+                <li>1 tutam tuz</li>
+            </ul>
+            <h4><span style="color:black ;">Üzeri için;</span></h4>
+            <ul>
+                <li>1 kase toz şeker</li>
+      
+            </ul>
+            <h3><span style="background-color: red; color:#FFF;">Nasıl Yapılır </span></h3>
+            <ol>
+                <li>Sütü bir tencereye alın içerisine çubuk tarçını, parça limon kabuklarını ve parça<br>  portakal kabuklarını ekleyerek karıştırın. Ocak üzerine alarak bir taşım kaynatın. Ocaktan alın ve oda sıcaklığında 15 dakika kadar dinlendirin..</li>
+				<img src="https://cdn.yemek.com/mncrop/600/315/uploads/2021/08/krema-katalan-3.png">
+				 <li>Bu sırada; yumurta sarılarını geniş bir kaba alın. Yarım su bardağı şekeri üzerine ilave edin.</li>
+				<img src="https://cdn.yemek.com/mncrop/600/315/uploads/2021/08/krema-katalan-1.png" >
+				 <li>Mısır nişastası ve bir tutam tuzu ekleyin.<br>  Pürüzsüz bir sarı rengini alana kadar çırpın.</li>
+				<img src="https://cdn.yemek.com/mncrop/600/315/uploads/2021/08/krema-katalan-2.png">
+				<li>Ilımış olan sütümüzü süzerek karışıma azar azar ekleyip karıştırın.<br>  Ardından tekrar tencereye alarak ocakta, kısık ateşte, sürekli karıştırarak pişirin..</li>
+				<img src="https://cdn.yemek.com/mncrop/600/315/uploads/2021/08/krema-katalan-4.png">
+				<li>Fokurdamaya başlayınca ocaktan alın. Önce topaklarından ayırmak için süzün,<br>  sonra fırın kaselerine paylaştırın.</li>
+				<img src="https://cdn.yemek.com/mncrop/600/315/uploads/2021/08/krema-katalan-6.png">
+				<li>Her bir krem katalanın üstünü streç film karışıma değecek şekilde kaplayın.<br> Bir gece boyunca dolapta dinlendirin. Ertesi gün her birinin üstündeki streç filmi alın ve üzerlerini şeker ile kaplayın.</li>
+				<img src="https://cdn.yemek.com/mncrop/600/315/uploads/2021/08/krema-katalan-7.png">
+				<li>İster fırının üst ızgara kısmında isterseniz de pürmüzle şekerleri yakın. Tercihe göre kırmızı meyvelerle süsleyerek servis edin. Afiyet olsun!</li>
+				<img src="https://cdn.yemek.com/mncrop/600/315/uploads/2021/08/krema-katalan-9.png">
+			
+           
+            </ol>
+        </article>
+    </section>
+	 <footer>
+    <h3 style="font-family:monospace; font-size: 30px; text-align: right; padding-right: 20px;" >Afiyet Olsun...</h3>
+   
+   </footer>
+	
+</body>
+</html>
